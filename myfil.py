@@ -2,5 +2,5 @@ import numpy as np
 import pandas as pd
 print('creat new file')
 import seaborn as sns
-df=pd.DataFrame({'a':[1,2,3])
+df=pd.DataFrame({'a':[1,2,3],'d':[7,6,9])
 
